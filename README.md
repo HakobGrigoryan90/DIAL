@@ -14,9 +14,9 @@ This collaborative project between NVision Systems and Technologies S.L and Nati
 ## Developed Services:
 1.	Missing data and seasonality analysis: This service provides in-depth analysis of missing data patterns and seasonal variations within IoT datasets. It identifies and quantifies gaps, assesses the impact of seasonality on data quality, and prepares the data for effective imputation.
 2.	Imputation Framework: The framework utilizes a multi-layer approach to address missing data. It incorporates three distinct algorithms based on initial data analysis:
-  •	Random Forest Model: Used for its robust prediction capabilities.
-  •	Convolutional Neural Network (CNN) Model: Leverages its ability to capture spatial patterns and intricate data structures.
-  •	ES-CC-BiLSTM Model: Integrates Exponential Smoothing, cross-correlation analysis, and BiLSTM Neural Networks to provide a comprehensive imputation solution that handles complex temporal dependencies and large missing data gaps.
+  **Random Forest Model:** Used for its robust prediction capabilities.
+  **Convolutional Neural Network (CNN) Model:** Leverages its ability to capture spatial patterns and intricate data structures.
+  **ES-CC-BiLSTM Model:** Integrates Exponential Smoothing, cross-correlation analysis, and BiLSTM Neural Networks to provide a comprehensive imputation solution that handles complex temporal dependencies and large missing data gaps.
 
 ## Datasets Used: 
 The framework was tested on real-world IoT data, including energy consumption data from the UNICON dataset (available at https://www.kaggle.com/datasets/cdaclab/unicon) and water consumption data from Zenodo (https://zenodo.org/records/556152#.Y8kxenbMK5d).
