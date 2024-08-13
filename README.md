@@ -1,4 +1,4 @@
-# DIAL: Data Imputation with Advanced Learning Framework
+# DIAL: Data Imputation with Advanced Learning
 
 This research was supported by the European Research Council (ERC) under grant no. 952215 (TAILOR Project).
 
